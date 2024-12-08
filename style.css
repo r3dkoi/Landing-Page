@@ -29,7 +29,7 @@ ul {
     display: flex;
     justify-content: center;
     list-style: none;
-    margin: 0;
+    margin-right: 200px;
     padding: 0;
 }
 
@@ -43,4 +43,17 @@ a {
 }
 
 /* Time for the main-title section */
+.title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.main-title {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+}
+
 
