@@ -56,15 +56,24 @@ a {
 
 /* Time for the main-title section */
 .title-container {
-    width: 100%;
     padding: 20px 0;
     display: flex;
     justify-content: space-between;
 }
-
-.main-title-container {
+.title-container img {
+    width: 400px;
+    height: 300px;
 
 }
+.main-title {
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    box-sizing: border-box;
+}
+
+
+ 
 
 
 
