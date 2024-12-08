@@ -13,11 +13,22 @@ header {
 }
 
 .navigation img {
-    width: 100px;
-    height: 100px;
+    width: auto; 
+    height: 100%;
+    max-height: 50px;
+    padding-left: 215px;
 }
 
 .navigation {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
