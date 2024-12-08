@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto, serif;
+    font-family: "Roboto", sans-serif;
 }
 
 body, header, footer {
@@ -32,3 +32,15 @@ ul {
     margin: 0;
     padding: 0;
 }
+
+li {
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+/* Time for the main-title section */
+
