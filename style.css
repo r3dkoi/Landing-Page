@@ -1,0 +1,14 @@
+body {
+    font-family: Roboto, serif;
+}
+
+/* Let's focus on the header-top first! */
+header {
+    background-color: orange
+}
+
+.navigation img {
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;  /* This should add a red border around the image */
+}
