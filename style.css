@@ -9,7 +9,7 @@ body, header, footer {
     box-sizing: border-box;
 }
 /* Let's focus on the header-top first! */
-header {
+header, footer{
     background-color: orange;
     margin: 0;
     width: 100%;
