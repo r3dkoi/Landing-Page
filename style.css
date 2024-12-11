@@ -72,6 +72,28 @@ a {
     box-sizing: border-box;
 }
 
+.main-title h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900; 
+    margin-bottom: 0px;
+}
+
+.main-title p {
+    color: #E5E7EB;
+    font-size: 18px;
+
+}
+
+.main-title a {
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
 
  
 
