@@ -94,6 +94,31 @@ a {
 
 }
 
+/* Time for the art-piece section */
+.art-title {
+    text-align: center;
+    color: orange;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.art-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px; /* placeholder of space between the images, adjust it soon */
+    margin-bottom: 100px;
+}
+.art-piece img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.art-piece .text {
+    text-align: center;
+    font-size: 16px;
+    width: 250px;
+}
 
  
 
