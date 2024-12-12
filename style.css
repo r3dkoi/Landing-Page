@@ -84,7 +84,7 @@ a {
 }
 
 .main-title p {
-    color: #E5E7EB;
+    color: whitesmoke;
     font-size: 18px;
 
 }
@@ -155,7 +155,7 @@ blockquote footer {
     flex-direction: column;
     align-items: center;
     background: white;
-    padding: 10px;
+    padding: 50px;
 }
 
 .contact-container {
@@ -170,11 +170,15 @@ blockquote footer {
     max-width: 80%;
     margin: 0 auto;
 
-
 }
  
 .contact {
     padding-left: 50px;
+}
+
+.contact h2 {
+    color: black;
+    margin-bottom: 0px;
 }
 .contact-button-container {
     display: flex;
@@ -196,6 +200,11 @@ blockquote footer {
     height: fit-content;
 }
 
-
+/* Footer */
+.footer-text {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 
 
